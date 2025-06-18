@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a developer who's passionate about coding, AI,
 - Full-stack JavaScript applications
 
 ## 📫 How to reach me:
-📧 theedevkit@gmail.com
+📧 kitadrian.diocares@dorsu.edu.ph
 
 ## 😄 Pronouns:
 He/Him
