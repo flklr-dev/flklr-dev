@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @flklr-dev
+# 👋 Hi, I’m Kit Adrian Diocares
 
 Welcome to my GitHub profile! I'm a developer who's passionate about coding, AI, and building cool things.
 
