@@ -1,26 +1,24 @@
 # 👋 Hi, I'm Kit Adrian Diocares
 
 🎯 I'm a **Frontend Developer** passionate about building interactive and performant web applications.  
-🔧 I enjoy working with **React**, **TypeScript**, and exploring modern tools like **Framer Motion**, **Tailwind CSS**, and **ShadCN/UI**.
+🔧 I build mobile application using technologies like **React**, **TypeScript**, while for web developemt   — always aiming for smooth interactions and solid design systems.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Kit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitadrian&show_icons=true&theme=tokyonight&hide=stars)
+![Kit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=flklr-dev&show_icons=true&theme=tokyonight&hide=stars)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kitadrian&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flklr-dev&layout=compact&theme=tokyonight)
 
-<!-- Optional: GitHub Streak Stats -->
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=kitadrian&theme=tokyonight) -->
 
 ---
 
 ## 🔗 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
-- 🌐 [Portfolio Website](https://your-portfolio-link.com)
-- 📫 Email: kitadrian.diocares@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/kit-adrian-diocares-349a20338/))
+- 🌐 [Portfolio Website](https://kit-dev-delta.vercel.app/)
+- 📫 Email: kitadrian.diocares@dorsu.edu.ph
 
 ---
 
