@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Kit Adrian Diocares
 
 🎯 I'm a **Frontend Developer** passionate about building interactive and performant web applications.  
-🔧 I build mobile application using technologies like **React**, **TypeScript**, while for web developemt   — always aiming for smooth interactions and solid design systems.
-
+🔧 I build mobile applications using technologies like React Native and TypeScript,
+while for web development — I focus on responsive interfaces, and maintainable component systems using tools like React, Next.js and Tailwind CSS.
+I aim to craft seamless user experiences with performance and accessibility in mind.
 ---
 
 ## 📊 GitHub Stats
