@@ -1,36 +1,28 @@
-# 👋 Hi, I’m Kit Adrian Diocares
+# 👋 Hi, I'm Kit Adrian Diocares
 
-Welcome to my GitHub profile! I'm a developer who's passionate about coding, AI, and building cool things.
-
-## 👀 I’m interested in:
-- Software development
-- AI & machine learning
-- Mobile app development
-- Creative coding
-
-## 🌱 I’m currently learning:
-- React Native
-- TypeScript
-- Node.js
-- Express.js
-
-## 💞️ I’m looking to collaborate on:
-- Open-source mobile apps
-- AI-based tools and projects
-- Full-stack JavaScript applications
-
-## 📫 How to reach me:
-📧 kitadrian.diocares@dorsu.edu.ph
-
-## 😄 Pronouns:
-He/Him
-
-## ⚡ Fun fact:
-I’m a big fan of pop folk music — I love how it blends catchy melodies with storytelling. I'm also a Scorpio, which means I'm curious, driven, and always up for a challenge!
+🎯 I'm a **Frontend Developer** passionate about building interactive and performant web applications.  
+🔧 I enjoy working with **React**, **TypeScript**, and exploring modern tools like **Framer Motion**, **Tailwind CSS**, and **ShadCN/UI**.
 
 ---
 
-<!---
-flklr-dev/flklr-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📊 GitHub Stats
+
+![Kit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kitadrian&show_icons=true&theme=tokyonight&hide=stars)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kitadrian&layout=compact&theme=tokyonight)
+
+<!-- Optional: GitHub Streak Stats -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=kitadrian&theme=tokyonight) -->
+
+---
+
+## 🔗 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
+- 🌐 [Portfolio Website](https://your-portfolio-link.com)
+- 📫 Email: kitadrian.diocares@example.com
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
+
