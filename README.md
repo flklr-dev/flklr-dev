@@ -18,8 +18,7 @@ I aim to craft seamless user experiences with performance and accessibility in m
 ## 🔗 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/kit-adrian-diocares-349a20338/))
-- 🌐 [Portfolio Website](https://kit-dev-delta.vercel.app/)
-- 📫 Email: kitadrian.diocares@dorsu.edu.ph
+- 🌐 [Portfolio Website](https://kit-adrian-diocares.vercel.app/)
 
 ---
 
