@@ -67,8 +67,9 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/flklr-dev/count.svg" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=flklr-dev&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
+
 
 ---
 
