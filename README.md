@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Kit Adrian Diocares 👋</h1>
-
 <h3 align="center">Freelance Mobile & Web Developer | Davao City, Philippines 🇵🇭</h3>
 
 <p align="center">
@@ -21,6 +20,18 @@
 - ⭐ **5.0 / 5.0** average client rating (Fiverr)
 - 🧩 Focused on **React Native, Next.js, TypeScript**, and clean, maintainable architecture
 - 🤖 Big on using **AI-assisted workflows** to ship faster without sacrificing code quality
+
+---
+
+### 🚀 Featured Projects
+
+**[AccessMap PH](https://github.com/flklr-dev/accessmapph)** — Crowdsourced accessibility mapping web app for Filipino PWDs. Lets users report and verify accessibility conditions (ramps, elevators, restrooms) at public spaces, with a moderation/trust pipeline and a Leaflet-based interactive map. Built toward WCAG 2.1 AA.
+`React 19` `Vite` `TypeScript` `Node.js` `Express` `MongoDB` `Firebase Auth`
+
+**[KAPPI](https://github.com/flklr-dev/kappi)** — Offline-first mobile app that helps coffee farmers diagnose leaf disease in the field. Runs on-device TensorFlow Lite models (MobileNetV2) for classification and a U-Net model for lesion segmentation, so it works with zero internet connection.
+`React Native` `Expo` `TypeScript` `TensorFlow Lite` `Node.js` `MongoDB`
+
+**EVA Alert** — Personal safety alert system with a pull-activated BLE trigger mechanism, pairing a wearable device with a companion app for real-time alerts. *(GitHub link pending — portfolio has the writeup: [kit-adrian-diocares.vercel.app](https://kit-adrian-diocares.vercel.app/))*
 
 ---
 
@@ -69,7 +80,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=flklr-dev&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
-
 
 ---
 
