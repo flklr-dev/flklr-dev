@@ -31,7 +31,8 @@
 **[KAPPI](https://github.com/flklr-dev/kappi)** — Offline-first mobile app that helps coffee farmers diagnose leaf disease in the field. Runs on-device TensorFlow Lite models (MobileNetV2) for classification and a U-Net model for lesion segmentation, so it works with zero internet connection.
 `React Native` `Expo` `TypeScript` `TensorFlow Lite` `Node.js` `MongoDB`
 
-**EVA Alert** — Personal safety alert system with a pull-activated BLE trigger mechanism, pairing a wearable device with a companion app for real-time alerts. *(GitHub link pending — portfolio has the writeup: [kit-adrian-diocares.vercel.app](https://kit-adrian-diocares.vercel.app/))*
+**[EVA Alert](https://github.com/flklr-dev/eva-app)** — Personal safety system pairing a physical BLE SOS keychain with a mobile app and web dashboard. Supports a pull-activated pin trigger, background geofencing for "circles of trust," critical alerts that bypass Do Not Disturb, and SMS fallback via AWS SNS when there's no signal.
+`React Native` `Expo` `Next.js` `Node.js` `MongoDB` `Bluetooth LE` `AWS SNS`
 
 ---
 
@@ -65,8 +66,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=flklr-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flklr-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="github-metrics.svg" alt="GitHub metrics" />
 </p>
 
 <p align="center">
