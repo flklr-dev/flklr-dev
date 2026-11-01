@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kit Adrian Diocares 👋</h1>
+<h1 align="center">Hi there, I'm Kit👋</h1>
 <h3 align="center">Freelance Mobile & Web Developer | Davao City, Philippines 🇵🇭</h3>
 
 <p align="center">
